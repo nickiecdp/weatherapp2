@@ -66,12 +66,14 @@ main {
         display: flex;
     }
     .weather-app-image{
-        font-size: 45px;
-        margin-top: 22px;
+        width:120px;
+        height: 120px;
+        margin-top: 12px;
+       
     }
     .weather-app-temp {
         font-size: 88px;
-        margin-left:8px;
+      
         font-weight: bold;
         color: rgb(24, 32, 32);
     }
